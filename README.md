@@ -1,6 +1,8 @@
 # ImageClassificationUsingCNN
 The objective is to create variety of CNN networks and to compare their performance.
 
+#Refer to [report](https://github.com/AravindChandradoss/Image-Classification-Using-CNN/blob/master/ImageClassificationUsingCNN/Aravind_Chandradoss/ML_Final_Project.pdf) for more details. You can also viz the result using TensorBoard.
+
 To run the log file in TensorBoard. You need TensorFlow to be install in your computer. 
 
 Once you have TensorFlow, you can run the following command on you terminal to start the TensorBoard.
