@@ -1,7 +1,7 @@
 # ImageClassificationUsingCNN
 The objective is to create variety of CNN networks and to compare their performance.
 
-# Refer to [report](https://github.com/AravindChandradoss/Image-Classification-Using-CNN/blob/master/ImageClassificationUsingCNN/Aravind_Chandradoss/ML_Final_Project.pdf) for more details. You can also viz the result using TensorBoard.
+## Refer to [report](https://github.com/AravindChandradoss/Image-Classification-Using-CNN/blob/master/ImageClassificationUsingCNN/Aravind_Chandradoss/ML_Final_Project.pdf) for more details. You can also viz the result using TensorBoard.
 
 To run the log file in TensorBoard. You need TensorFlow to be install in your computer. 
 
@@ -10,20 +10,19 @@ Once you have TensorFlow, you can run the following command on you terminal to s
 Be sure that you are in the right directory before running the following command. 
 
 For CIFAR DATASET:
-#######################################################################################
+```bash
 $ tensorboard --logdir='logsCIFAR/'   
-#######################################################################################
-
+```
 For AR DATASET:
-#######################################################################################
+```bash
 $ tensorboard --logdir='logsAR/'
-#######################################################################################
+```
 
 After you run the command you will get something similar to this,
-#######################################################################################
+```bash
 aravinddoss@aravinddoss-Inspiron-5558:~/Documents/ML_Proj$ tensorboard --logdir='logs/'
 TensorBoard 1.12.0 at http://aravinddoss-Inspiron-5558:6006 (Press CTRL+C to quit)
-#######################################################################################
+```
 
 Once you get this, you can open the link in you browser and access the tensorboard as you want. 
 
